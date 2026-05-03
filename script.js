@@ -111,6 +111,15 @@ let archivos = [
     week: 4,
     fileName: "imagen4.png"
   },
+   {
+    id: 13,
+    title: "Tarjeta de presentacion",
+    desc: "",
+    data: "./archivos/1.png",
+    type: "imagen",
+    week: 2,
+    fileName: "1.png"
+  },
 
 
 ];
