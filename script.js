@@ -129,6 +129,15 @@ let archivos = [
     week: 2,
     fileName: "2.png"
   },
+   {
+    id: 15,
+    title: "Relacion No Normalizada",
+    desc: "",
+    data: "./archivos/Normal.jpeg",
+    type: "image",
+    week: 5,
+    fileName: "Normal.jpeg"
+  },
 
 
 ];
