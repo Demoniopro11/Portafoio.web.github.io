@@ -138,6 +138,15 @@ let archivos = [
     week: 5,
     fileName: "Normal.jpeg"
   },
+  {
+    id: 16,
+    title: "Primera Forma Normal",
+    desc: "",
+    data: "./archivos/Froma_Normal_1.jpeg",
+    type: "image",
+    week: 4,
+    fileName: "Froma_Normal_1.jpeg"
+  },
 
 
 ];
