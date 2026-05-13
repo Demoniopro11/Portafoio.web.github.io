@@ -129,8 +129,17 @@ let archivos = [
     week: 2,
     fileName: "2.png"
   },
-   {
+  {
     id: 15,
+    title: "Resumen de la semana 5",
+    desc: "",
+    data: "./archivos/Resumen5.png",
+    type: "image",
+    week: 5,
+    fileName: "Resumen5.png"
+  },
+   {
+    id: 16,
     title: "Relacion No Normalizada",
     desc: "",
     data: "./archivos/Normal.jpeg",
@@ -139,15 +148,32 @@ let archivos = [
     fileName: "Normal.jpeg"
   },
   {
-    id: 16,
+    id: 17,
     title: "Primera Forma Normal",
     desc: "",
     data: "./archivos/Froma_Normal_1.jpeg",
     type: "image",
-    week: 4,
+    week: 5,
     fileName: "Froma_Normal_1.jpeg"
   },
-
+  {
+    id: 18,
+    title: "Segunda Forma Normal",
+    desc: "",
+    data: "./archivos/Froma_Normal_2.jpeg",
+    type: "image",
+    week: 5,
+    fileName: "Froma_Normal_2.jpeg"
+  },
+   {
+    id: 19,
+    title: "Tercera Forma Normal",
+    desc: "",
+    data: "./archivos/Froma_Normal_3.jpeg",
+    type: "image",
+    week: 5,
+    fileName: "Froma_Normal_3.jpeg"
+  },
 
 ];
 const getFiles = () => archivos;
