@@ -178,10 +178,10 @@ let archivos = [
     id: 20,
     title: "Resumen semana 6",
     desc: "",
-    data: "./archivos/Resumen6.jpeg",
+    data: "./archivos/Resumen6.png",
     type: "image",
     week: 6,
-    fileName: "Resumen6.jpeg"
+    fileName: "Resumen6.png"
   },
 
 
