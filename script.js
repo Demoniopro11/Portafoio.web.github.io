@@ -174,6 +174,16 @@ let archivos = [
     week: 5,
     fileName: "Froma_Normal_3.jpeg"
   },
+  {
+    id: 20,
+    title: "Resumen semana 6",
+    desc: "",
+    data: "./archivos/Resumen6.jpeg",
+    type: "image",
+    week: 6,
+    fileName: "Resumen6.jpeg"
+  },
+
 
 ];
 const getFiles = () => archivos;
