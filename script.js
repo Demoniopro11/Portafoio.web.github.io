@@ -210,6 +210,15 @@ let archivos = [
     week: 7,
     fileName: "Resumen7.pdf"
   },
+  {
+    id: 28,
+    title: "Resumen semana 8",
+    desc: "",
+    data: "./archivos/Resuemen8.pdf",
+    type: "pdf",
+    week: 8,
+    fileName: "Resuemen8.pdf"
+  },
 
 
 ];
