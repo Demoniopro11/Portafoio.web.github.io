@@ -183,6 +183,15 @@ let archivos = [
     week: 6,
     fileName: "Resumen6.png"
   },
+  {
+    id: 21,
+    title: "Script SQL",
+    desc: "",
+    data: "./archivos/Script_SQL.pdf",
+    type: "pdf",
+    week: 6,
+    fileName: "Script_SQL.pdf"
+  },
 
 
 ];
