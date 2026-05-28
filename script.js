@@ -192,6 +192,15 @@ let archivos = [
     week: 6,
     fileName: "Script_SQL.pdf"
   },
+   {
+    id: 22,
+    title: "CONSULTAS BASICAS EN SQL",
+    desc: "",
+    data: "./archivos/CONSULTAS_BASICAS_EN_SQL.pdf",
+    type: "pdf",
+    week: 6,
+    fileName: "CONSULTAS_BASICAS_EN_SQL.pdf"
+  },
 
 
 ];
