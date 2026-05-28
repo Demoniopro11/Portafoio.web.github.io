@@ -201,6 +201,15 @@ let archivos = [
     week: 6,
     fileName: "CONSULTAS_BASICAS_EN_SQL.pdf"
   },
+   {
+    id: 27,
+    title: "Resumen semana 7",
+    desc: "",
+    data: "./archivos/Resumen7.pdf",
+    type: "pdf",
+    week: 6,
+    fileName: "Resumen7.pdf"
+  },
 
 
 ];
