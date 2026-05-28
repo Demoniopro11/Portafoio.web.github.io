@@ -198,7 +198,7 @@ let archivos = [
     desc: "",
     data: "./archivos/CONSULTAS_BASICAS_EN_SQL.pdf",
     type: "pdf",
-    week: 6,
+    week: 7,
     fileName: "CONSULTAS_BASICAS_EN_SQL.pdf"
   },
    {
@@ -207,7 +207,7 @@ let archivos = [
     desc: "",
     data: "./archivos/Resumen7.pdf",
     type: "pdf",
-    week: 6,
+    week: 7,
     fileName: "Resumen7.pdf"
   },
 
