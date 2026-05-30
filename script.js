@@ -219,6 +219,24 @@ let archivos = [
     week: 8,
     fileName: "Resuemen8.pdf"
   },
+  {
+    id: 29,
+    title: "INFOGRAFIA SQL 1-15",
+    desc: "",
+    data: "./archivos/SQL_Diagnostico.pdf",
+    type: "pdf",
+    week: 7,
+    fileName: "SQL_Diagnostico.pdf"
+  },
+  {
+    id: 30,
+    title: "INFOGRAFIA SQL 16-30",
+    desc: "",
+    data: "./archivos/SQL_DIAGNOSTICO2.pdf",
+    type: "pdf",
+    week: 7,
+    fileName: "SQL_DIAGNOSTICO2.pdf"
+  },
 
 
 ];
