@@ -237,6 +237,15 @@ let archivos = [
     week: 7,
     fileName: "SQL_DIAGNOSTICO2.pdf"
   },
+    {
+    id: 31,
+    title: "INFOGRAFIA ACTIVIDAD 2 ",
+    desc: "",
+    data: "./archivos/Infografias_Actividad2.pdf",
+    type: "pdf",
+    week: 9,
+    fileName: "Infografias_Actividad2.pdf"
+  },
 
 
 ];
